@@ -4,7 +4,7 @@ Hello, I'm Rayhanendra, a front-end web developer. 🚀
 
 I am passionate about creating nice user interfaces. Also, I love to implement best practices in every aspect. ✨
 
-**Tech Stacks and Tools:**  
+**Tech Stacks and Tools**  
 
 <div>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
