@@ -30,7 +30,7 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 
 **Github Stats**
 
-Currently, my commits are in gitlab due to work 👀
+Currently, my commits are in [Gitlab](https://gitlab.com/mrayhann) due to work. 👀
 
 ![Rayhanendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhanendra&hide=stars,contribs&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&border_radius=8&hide_border=true&bg_color=45,1CB5E0,000851&include_all_commits=true&count_private=true)
 
