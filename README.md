@@ -17,8 +17,8 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 <code><img height="28" src="https://v4.material-ui.com/static/logo.png"></code>
 <code><img height="28" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
 <code><img height="28" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png"></code>
+<code><img height="28" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"></code>
 <code><img height="28" src="https://cdn.iconscout.com/icon/free/png-256/less-18-1175145.png"></code>
-
 </div>
 
 <div>
@@ -33,6 +33,11 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 Currently, my commits are in [Gitlab](https://gitlab.com/mrayhann) due to work. 👀
 
 ![Rayhanendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhanendra&hide=stars,contribs&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&border_radius=8&hide_border=true&bg_color=45,1CB5E0,000851&include_all_commits=true&count_private=true)
+
+
+**Publications**
+
+Please take a look at my [dev.to](https://dev.to/rayhanendra) site. 🤓
 
 <!--
 Gold Bright: FFCC00,D4AF37,B8860B,996515
