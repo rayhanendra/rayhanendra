@@ -11,6 +11,7 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/28px-Svelte_Logo.svg.png"></code>
 </div>
 
 <div>
@@ -19,6 +20,7 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 <code><img height="28" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png"></code>
 <code><img height="28" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"></code>
 <code><img height="28" src="https://cdn.iconscout.com/icon/free/png-256/less-18-1175145.png"></code>
+<code><img height="28" src="https://cdn.iconscout.com/icon/free/png-512/free-sass-13-1175092.png?f=webp&w=256"></code>
 </div>
 
 <div>
