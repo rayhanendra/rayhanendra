@@ -16,8 +16,8 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 
 <div>
 <code><img height="28" src="https://v4.material-ui.com/static/logo.png"></code>
-<code><img height="28" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
-<code><img height="28" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png"></code>
+<code><img height="28" src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg"></code>
+<code><img height="28" src="https://www.svgrepo.com/show/354397/storybook-icon.svg"></code>
 <code><img height="28" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"></code>
 <code><img height="28" src="https://cdn.iconscout.com/icon/free/png-256/less-18-1175145.png"></code>
 <code><img height="28" src="https://cdn.iconscout.com/icon/free/png-512/free-sass-13-1175092.png?f=webp&w=256"></code>
