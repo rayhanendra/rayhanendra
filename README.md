@@ -26,7 +26,7 @@ I am passionate about creating nice user interfaces. Also, I love to implement b
 <div>
 <code><img height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="28" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ih3wgcjnztxkqpvy8t8b"></code>
+<code><img height="28" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
 </div>
 
 <br/>
