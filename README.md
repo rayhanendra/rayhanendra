@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Software Engineer** at **Heights and Minds Foundation**
-- 🌱 Passionate about **UX/UI Design**, **Web Development**, and **User Experience**
-- 💻 Love implementing **best practices** in every aspect of development
-- 🎯 Focus on creating **responsive** and **accessible** web applications
-- 🌟 Enjoy collaborating with teams to turn ideas into reality
+- Currently working as **Software Engineer** at **Heights and Minds Foundation**
+- Passionate about **UX/UI Design**, **Web Development**, and **User Experience**
+- Love implementing **best practices** in every aspect of development
+- Focus on creating **responsive** and **accessible** web applications
+- Enjoy collaborating with teams to turn ideas into reality
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@
 <div>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/28px-Svelte_Logo.svg.png"></code>
+<code><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/250px-Svelte_Logo.svg.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="28" src="https://nuxtjs.org/design-kit/colored-logo.svg"></code>
 </div>
