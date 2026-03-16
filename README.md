@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - Currently working as **Software Engineer** at **Heights and Minds Foundation**
-- Passionate about **UX/UI Design**, **Web Development**, and **User Experience**
+- Passionate about **Web Development**, **Mobile Development**, **UX/UI Design**, and **User Experience**
 - Love implementing **best practices** in every aspect of development
 - Focus on creating **responsive** and **accessible** web applications
 - Enjoy collaborating with teams to turn ideas into reality
